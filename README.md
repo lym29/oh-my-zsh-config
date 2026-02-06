@@ -1,6 +1,11 @@
-# 克隆配置
+# Clone this repo
+```
 git clone git@github.com:lym29/oh-my-zsh-config.git
 cd oh-my-zsh-config
+```
 
-# 一键安装
+# One-click install
+```
+chmod u+x install.sh
 ./install.sh
+```
